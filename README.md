@@ -2,6 +2,7 @@
 <h4 align='center'>How can I help you ?</h4>
 
 
+
 ###
 
 <p align="left">Skills & Tools I use...</p>
@@ -44,7 +45,20 @@
 
 ###
 
+<p align="left">Connect With Me...</p>
 
+###
+
+<img align="right" height="150" src="https://www.bing.com/images/create/football2fsoccer-player-who-is-a-british-shorthair-/1-66104769e0bb4d4f8337286444a317d3?id=KQy3CdaaT4Tv3PH49y8Rlg%3d%3d&view=detailv2&idpp=genimg&thId=OIG1.qbcy17pfqIq4hzjMeJhr&FORM=GCRIDP&mode=overlay"  />
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/azucv23/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+
+</div>
 
 ###
 
